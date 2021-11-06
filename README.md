@@ -1,6 +1,7 @@
 # DWT-CSP-EEG-classification
 This is my thesis project. So only a few things have been done.
 
+FYI: I provided both of .mlx file and .m file, they are the same code inside.
 
 ![image](https://user-images.githubusercontent.com/66479775/140598347-ece757d3-f877-4fbf-bb5e-ac647b15bb2c.png)
 
